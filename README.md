@@ -1,2 +1,2 @@
 # VBA-Challenge
-VBA Homework, due 10/3
+Utilizing VBA scripting to analyze snapshots of stock market data, highlighting value changes to various stock options.
