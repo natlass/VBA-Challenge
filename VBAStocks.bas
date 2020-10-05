@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub VBAStocks()
 
 'Loop through each worksheet
@@ -99,4 +98,3 @@ For Each Main In Worksheets
 Next Main
     
 End Sub
-
